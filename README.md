@@ -5,7 +5,7 @@ Proyecto de diseño de una aplicación web para la asignatura Entorno de Desarro
 
 * **Integrantes del grupo:**
   - Sergio Ávila
-  - Esperanza del Junco
+  - Esperanza Del Junco
   - Manuel Fernández
   - Mario Ballestero
   
