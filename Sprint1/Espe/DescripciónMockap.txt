@@ -1,0 +1,5 @@
+En el mockup se aprecia en  un primer momento una  imagen atractiva para el público al que va dirigido la aplicaci, con el logo situado abajone
+abajo en el centro.
+A continuación utilizaremos la aplicación con la barra de herramientas situada arriba, en primer lugar empezando desde la izquierda vemos la opción 
+"registrarse" por la cual accederemos a la aplicación si no estamos subscritos, si ya estmos registrados se picará en login, y por último existe la opción
+"contactar" en la que encontraremos información de la empresa.
