@@ -15,5 +15,9 @@ Esta aplicación/página web consiste en facilitarle el trabajo a las Discotecas
 * **Herramientas Usadas:**
     - BeFunky: para diseño de Mockups
     - Canva: para diseño de Mockups
+    - MockFlow: para diseño de Mockups
+    - Lucidchart: para diagramas
+    - Draw.io: para diagramas
+    - Typora: editor markdown
 
 * **Bibliografía:**
