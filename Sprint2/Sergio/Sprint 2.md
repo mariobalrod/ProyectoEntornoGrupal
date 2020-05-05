@@ -14,7 +14,7 @@ Para aprender un poco de markdown he mirado este [tutorial](https://www.youtube.
 
 ### Mockup
 
-![AppPage](C:\Users\Usuario\Documents\F.P\Entorno de desarrollo\Trabajo DiscoPub\Mockup_App.JPG)
+![AppPage](./imagenes/Mockup_App.JPG)
 
 **Descripción**
 
@@ -28,7 +28,7 @@ Mostrando los diferentes apartados a los que se podrán acceder de forma directa
 
 **Diagrama de clases**
 
-![DiagramaClases](C:\Users\Usuario\Documents\F.P\Entorno de desarrollo\Trabajo DiscoPub\Diagramas\Diagrama de clases.JPG)
+![DiagramaClases](./imagenes/Diagrama_de_clases.JPG)
 
 **Descripción**
 
@@ -36,4 +36,4 @@ Como se puede aprecia en el diagrama esta plasmado como seria la distribución d
 
 **Diagrama de objetos**
 
-![diagrama_objetos](C:\Users\Usuario\Documents\F.P\Entorno de desarrollo\Trabajo DiscoPub\Diagramas\Diagrama de Objetos.JPG)
+![diagrama_objetos](./imagenes/Diagrama_de_Objetos.JPG)
