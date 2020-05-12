@@ -1,10 +1,8 @@
 package classes;
 
-import interfaces.ValidarImagen;
-
-public class Imagen implements ValidarImagen {
-    String uri;
-    int tamanio;
+public class Imagen {
+    public String uri;
+    public int tamanio;
 
     public Imagen () {}
     public Imagen ( String uri, int tamanio ) {
@@ -16,11 +14,4 @@ public class Imagen implements ValidarImagen {
         System.out.println("Subiendo Imagen ...");
     }
 
-    public boolean validarImagen(Imagen imagen){
-        if(tamanio>500){
-            return false;
-        }else{
-            return true;
-        }
-    }
 }

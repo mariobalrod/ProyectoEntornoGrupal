@@ -1,10 +1,10 @@
 package classes;
 
 public class Usuario {
-    String username;
-    String email;
-    Imagen imgPerfil;
-    String password;
+    public String username;
+    public String email;
+    public Imagen imgPerfil;
+    public String password;
 
     public Usuario () {}
     public Usuario (String username, String email, Imagen imgPerfil, String password) {

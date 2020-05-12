@@ -3,7 +3,7 @@ package classes;
 import java.util.ArrayList;
 
 public class Cliente extends Usuario {
-    ArrayList<Usuario> contactos;
+    public ArrayList<Usuario> contactos;
 
     public Cliente () {}
     public Cliente (String username, String email, Imagen imgPerfil, String password, ArrayList<Usuario> contactos) {

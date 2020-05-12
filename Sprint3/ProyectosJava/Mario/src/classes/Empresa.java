@@ -3,8 +3,8 @@ package classes;
 import java.util.ArrayList;
 
 public class Empresa extends Usuario {
-    ArrayList<Oferta> ofertas;
-    ArrayList<Local> locales;
+    public ArrayList<Oferta> ofertas;
+    public ArrayList<Local> locales;
 
     public Empresa () {}
     public Empresa (String username, String email, Imagen imgPerfil, String password, ArrayList<Oferta> ofertas,  ArrayList<Local> locales) {

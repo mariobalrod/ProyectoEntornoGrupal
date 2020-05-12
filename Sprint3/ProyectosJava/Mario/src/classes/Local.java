@@ -3,10 +3,10 @@ package classes;
 import java.util.ArrayList;
 
 public class Local {
-    String nombre;
-    String ubicacion;
-    String telefono;
-    ArrayList<Imagen> imagenes;
+    public String nombre;
+    public String ubicacion;
+    public String telefono;
+    public ArrayList<Imagen> imagenes;
 
     public Local () {}
     public Local (String nombre, String ubicacion, String telefono, ArrayList<Imagen> imagenes) {

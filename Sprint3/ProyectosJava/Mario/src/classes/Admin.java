@@ -3,7 +3,7 @@ package classes;
 import java.util.Scanner;
 
 public class Admin extends Usuario {
-    String [] permisos;
+    public String [] permisos;
 
     public Admin () {}
     public Admin (String username, String email, Imagen imgPerfil, String password, String [] permisos) {

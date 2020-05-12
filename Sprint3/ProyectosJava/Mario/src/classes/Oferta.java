@@ -3,9 +3,9 @@ package classes;
 import java.util.ArrayList;
 
 public class Oferta {
-    String titulo;
-    String descripcion;
-    ArrayList<Imagen> imagenes;
+    public String titulo;
+    public String descripcion;
+    public ArrayList<Imagen> imagenes;
 
     public Oferta () {}
     public Oferta (String titulo, String descripcion, ArrayList<Imagen> imagenes){
