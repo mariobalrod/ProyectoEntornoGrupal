@@ -20,12 +20,12 @@ public class Empresa extends Usuario {
     }
 
     public void addLocal(String nombre, String ubicacion, String telefono, ArrayList<Imagen> imagenes){
-        Local local = new Local( nombre, ubicacion, telefono, imagenes );
+        Local local = new Local( nombre, ubicacion, telefono, imagenes, this );
         this.locales.add(local);
     }
 
     public void colgarOferta(String titulo, String descripcion, ArrayList<Imagen> imagenes){
-        Oferta oferta = new Oferta( titulo, descripcion, imagenes );
+        Oferta oferta = new Oferta( titulo, descripcion, imagenes, this );
         this.ofertas.add(oferta);
     }
 
