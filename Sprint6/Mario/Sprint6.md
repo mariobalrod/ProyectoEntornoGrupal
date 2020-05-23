@@ -135,7 +135,7 @@ Proyecto de diseño de una aplicación web para la asignatura Entorno de Desarro
   </tr>
   <tr>
     <td style="width: 15%;">Testing</td>
-    <td style="width: 20%;"></td>
+    <td style="width: 20%;">Mocha</td>
     <td style="width: 20%;"><img src="./imagenes/mocha.svg" width="30"/></td>
     <td style="width: 34%;">Ya que según lo que me he informado mocha nos permite testear los componentes de React</td>
   </tr>
