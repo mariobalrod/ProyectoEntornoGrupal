@@ -19,5 +19,7 @@ Esta aplicación/página web consiste en facilitarle el trabajo a las Discotecas
     - Lucidchart: para diagramas
     - Draw.io: para diagramas
     - Typora: editor markdown
+    - Visual Studio Code
+    - Eclipse
 
 * **Bibliografía:**
